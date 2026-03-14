@@ -1,16 +1,20 @@
-## Hi there 👋
+# Daniel Carter - Home & Living Enthusiast
 
-<!--
-**danielcarterhome/danielcarterhome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sharing expert insights on **luxury rugs, area rugs, carpets, and interior design**.
 
-Here are some ideas to get you started:
+## Featured Article:
+[How to Choose the Best Area Rugs: An Expert Styling Guide](https://abchome.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+- Rug Styling
+- Home Decor
+- Interior Design
+- Luxury Carpets
+- Modern Rugs
+
+### About Me
+I’m Daniel Carter, a Home & Living Enthusiast and Interior & Everyday Spaces Observer with over two decades of experience exploring the world of home interiors, rugs, and living spaces. I share practical tips on selecting the best rugs, understanding materials, and styling living spaces to create cohesive and beautiful environments.
+
+---
+
+**Check out more guides at [ABC Carpet & Home](https://abchome.com/)**
